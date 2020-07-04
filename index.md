@@ -12,5 +12,5 @@ Théo Guénais, Dimitris Vamvourellis, Yaniv Yacoby, Finale Doshi-Velez, Weiwei 
 
 ## Work Experience
 
-Currently, I am working as a data scientist for[intelligencia.ai](https://www.intelligencia.ai/), building Natural Language Processing models to uncover trends and emerging areas of innovation in clinical research. Prior to that, I worked in the fintech industry for BlackRock, where I developed subject matter expertise on the quantitative capabilities of the Aladdin platform like stress testing, portfolio optimization and portfolio risk modelling tools.
+Currently, I am working as a data scientist for [intelligencia.ai](https://www.intelligencia.ai/), building Natural Language Processing models to uncover trends and emerging areas of innovation in clinical research. Prior to that, I worked in the fintech industry for BlackRock, where I developed subject matter expertise on the quantitative capabilities of the Aladdin platform like stress testing, portfolio optimization and portfolio risk modelling tools.
 
