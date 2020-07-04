@@ -4,3 +4,11 @@ description: Masters Student in Data Science, Harvard University
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+social-network-links:
+  # rss: false
+  email: "dimvamvourellis@gmail.com"
+  github: dvamvourellis
+#  reddit: yourname
+  linkedin: dimitrisvamvourellis
+
