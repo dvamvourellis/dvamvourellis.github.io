@@ -25,3 +25,9 @@ Currently, I am working as a data scientist for [intelligencia.ai](https://www.i
   - Developed recurrent neural networks to perform sentiment analysis on two million relevant tweets.
   - Created a Bayesian model to infer the popularity of each candidate based on the sentiment of tweets referring to this candidate.
 
+
+
+## Contact
+- email: dimvamvourellis@gmail.com
+- [linkedin](https://www.linkedin.com/in/dimitrisvamvourellis/)
+
