@@ -14,3 +14,14 @@ Théo Guénais, Dimitris Vamvourellis, Yaniv Yacoby, Finale Doshi-Velez, Weiwei 
 
 Currently, I am working as a data scientist for [intelligencia.ai](https://www.intelligencia.ai/), building Natural Language Processing models to uncover trends and emerging areas of innovation in clinical research. Prior to that, I worked in the fintech industry for BlackRock, where I developed subject matter expertise on the quantitative capabilities of the Aladdin platform like stress testing, portfolio optimization and portfolio risk modelling tools.
 
+
+## Recent Projects
+
+- Predicting flu rates across US states [(github repo)](https://github.com/benlevyx/modelling-infectious-disease).
+  - Built recurrent neural networks to forecast flu rates across US for multiple weeks into the future.
+  - Used a hierarchical Bayesian model to analyze the impact of various socioeconomic and environmental factors on flu rates across different states.
+  
+- Predicting public opinion in the 2020 Democratic Primaries using Twitter [#tweetpoll](https://benlevyx.github.io/twitter-polling/).
+  - Developed recurrent neural networks to perform sentiment analysis on two million relevant tweets.
+  - Created a Bayesian model to infer the popularity of each candidate based on the sentiment of tweets referring to this candidate.
+
