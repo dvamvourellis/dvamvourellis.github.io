@@ -1,6 +1,6 @@
 ## About
 
-I am currently pursuing a Masters in Data Science at Harvard's Institute for Applied Computational Sciences. Before that, I earned a BS in Computer Science and Mathematics at the University of Edinburgh. I am an aspiring data scientist, passionate about solving real-world problems with machine learning and statistics.
+I am currently pursuing a Masters in Data Science at Harvard's Institute for Applied Computational Sciences. Before that, I graduated first in my class with a BS in Computer Science and Mathematics at the University of Edinburgh. I am an aspiring data scientist, passionate about solving real-world problems with machine learning and statistics.
 
 ## Research
 
