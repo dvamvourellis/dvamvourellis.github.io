@@ -26,7 +26,7 @@ Currently, I am working as Quantitative Researcher at BlackRock's Liquidity Rese
   - Created a Bayesian model to infer the popularity of each candidate based on the sentiment of tweets referring to this candidate.
 
 - [Mining Biomedical Text: Transfer Learning to the Rescue](https://medium.com/institute-for-applied-computational-science/mining-biomedical-text-transfer-learning-to-the-rescue-d502029314c3)
-  - Used BioBERT to mine relations between genes and diseases and from massive medical literature, constructing a knowledge graph from unstructured text.
+  - Used BioBERT to mine relations between genes and diseases from massive medical literature, constructing a knowledge graph from unstructured text.
 
 
 ## Contact
