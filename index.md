@@ -1,6 +1,6 @@
 ## About
 
-I am currently pursuing a Masters in Data Science at Harvard's Institute for Applied Computational Sciences. Before that, I graduated first in my class with a BS in Computer Science and Mathematics at the University of Edinburgh. I am an aspiring data scientist, passionate about solving real-world problems with machine learning and statistics.
+In December 2020, I graduated with a Masters in Data Science from Harvard's Institute for Applied Computational Sciences. Before that, I graduated first in my class with a BS in Computer Science and Mathematics at the University of Edinburgh. I am an aspiring data scientist, passionate about solving real-world problems with machine learning and statistics.
 
 ## Research
 
@@ -12,7 +12,7 @@ Théo Guénais, Dimitris Vamvourellis, Yaniv Yacoby, Finale Doshi-Velez, Weiwei 
 
 ## Work Experience
 
-Currently, I am working as a data scientist for [intelligencia.ai](https://www.intelligencia.ai/), building Natural Language Processing models to uncover trends and emerging areas of innovation in clinical research. Prior to that, I worked in the fintech industry for BlackRock, where I developed subject matter expertise on the quantitative capabilities of the Aladdin platform like stress testing, portfolio optimization and portfolio risk modelling tools.
+Currently, I am working as Quantitative Researcher at BlackRock's Liquidity Research Group, applying machine learning techniques on the field of liquidity and market microstructure. Previously, I worked as a data scientist for [intelligencia.ai](https://www.intelligencia.ai/), building Natural Language Processing models to uncover trends and emerging areas of innovation in clinical research. Prior to that, I worked in the fintech industry for BlackRock, where I developed subject matter expertise on the quantitative capabilities of the Aladdin platform like stress testing, portfolio optimization and portfolio risk modelling tools.
 
 
 ## Recent Projects
@@ -25,6 +25,8 @@ Currently, I am working as a data scientist for [intelligencia.ai](https://www.i
   - Developed recurrent neural networks to perform sentiment analysis on two million relevant tweets.
   - Created a Bayesian model to infer the popularity of each candidate based on the sentiment of tweets referring to this candidate.
 
+- [Mining Biomedical Text: Transfer Learning to the Rescue](https://medium.com/institute-for-applied-computational-science/mining-biomedical-text-transfer-learning-to-the-rescue-d502029314c3)
+  - Used BioBERT to mine relations between genes and diseases and from massive medical literature, constructing a knowledge graph from unstructured text.
 
 
 ## Contact
