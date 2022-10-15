@@ -4,7 +4,7 @@ In December 2020, I graduated with a Masters in Data Science from Harvard's Inst
 
 ## Research
 
-I conducted machine learning research at the [Data to Actionable Knowledge (DtAK) lab](https://dtak.github.io) focusing on uncertainty estimation for deep models. Specifically, I am interested in building Bayesian deep learning models which provide reliable and useful uncertainty estimates, an essential property for downstream applications in high-risk domains. 
+I conducted machine learning research at Harvard's [Data to Actionable Knowledge (DtAK) lab](https://dtak.github.io), focusing on uncertainty estimation for deep models. Specifically, I am interested in building Bayesian deep learning models which provide reliable and useful uncertainty estimates, an essential property for downstream applications in high-risk domains. 
 
 #### Recent Work
 
