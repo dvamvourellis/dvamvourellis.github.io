@@ -1,18 +1,21 @@
 ## About
 
-In December 2020, I graduated with a Masters in Data Science from Harvard's Institute for Applied Computational Sciences. Before that, I graduated first in my class with a BS in Computer Science and Mathematics at the University of Edinburgh. I am an aspiring data scientist, passionate about solving real-world problems with machine learning and statistics.
+In December 2020, I graduated with a Masters in Data Science from Harvard's Institute for Applied Computational Sciences. Before that, I graduated first in my class with a BS in Computer Science and Mathematics at the University of Edinburgh. I am passionate about solving real-world problems with machine learning and statistics.
 
 ## Research
 
-I am doing machine learning research at the [Data to Actionable Knowledge (DtAK) lab](https://dtak.github.io). Currently, I am interested in uncertainty estimation for deep models. Specifically, I am interested in building Bayesian deep learning models which provide reliable and useful uncertainty estimates, an essential property for downstream applications in high-risk domains (e.g. healthcare, judicial decisions). 
+I conducted machine learning research at the [Data to Actionable Knowledge (DtAK) lab](https://dtak.github.io) focusing on uncertainty estimation for deep models. Specifically, I am interested in building Bayesian deep learning models which provide reliable and useful uncertainty estimates, an essential property for downstream applications in high-risk domains. 
 
 #### Recent Work
 
-Théo Guénais, Dimitris Vamvourellis, Yaniv Yacoby, Finale Doshi-Velez, Weiwei Pan, *BaCOUn: Bayesian Classifier with OOD Uncertainty*, Accepted by ICML Workshop on Uncertainty and Robustness in Deep Learning, 2020.
+Théo Guénais, Dimitris Vamvourellis, Yaniv Yacoby, Finale Doshi-Velez, Weiwei Pan, *BaCOUn: Bayesian Classifier with OOD Uncertainty*, ICML Workshop on Uncertainty and Robustness in Deep Learning, 2020.
+
+Dimitris Vamvourellis, Mate Attila Toth, Dhruv Desai, Dhagash Mehta, Stefano Pasquali, *Learning Mutual Fund Categorization using Natural Language Processing*, 3rd ACM International Conference on AI in Finance, 2022.
+
 
 ## Work Experience
 
-Currently, I am working as Quantitative Researcher at BlackRock's Liquidity Research Group, applying machine learning techniques on the field of liquidity and market microstructure. Previously, I worked as a data scientist for [intelligencia.ai](https://www.intelligencia.ai/), building Natural Language Processing models to uncover trends and emerging areas of innovation in clinical research. Prior to that, I worked in the fintech industry for BlackRock, where I developed subject matter expertise on the quantitative capabilities of the Aladdin platform like stress testing, portfolio optimization and portfolio risk modelling tools.
+Currently, I am working as Quantitative Researcher at BlackRock's Liquidity Research Group, applying machine learning and NLP techniques and on the field of liquidity and market microstructure. Previously, I worked as a data scientist for [intelligencia.ai](https://www.intelligencia.ai/), building Natural Language Processing models to uncover trends and emerging areas of innovation in clinical research. Prior to that, I worked in the fintech industry for BlackRock, where I developed subject matter expertise on the quantitative capabilities of the Aladdin platform like stress testing, portfolio optimization and portfolio risk modelling tools.
 
 
 ## Recent Projects
