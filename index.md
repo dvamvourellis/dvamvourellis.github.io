@@ -20,6 +20,8 @@ Currently, I am working as Quantitative Researcher at BlackRock's Liquidity Rese
 
 ## Recent Projects
 
+- Developed an LLM [(application)](https://rehearsal-ai.streamlit.app/) for creating hypothetical debates between two [(CAMEL)](https://www.camel-ai.org/) agents. The app can be used to rehearse a conversation you are interested in between two given roles (e.g. negotiate with your manager) and find potentially useful arguments and counterarguments on a given topic.
+
 - Predicting flu rates across US states [(github repo)](https://github.com/benlevyx/modelling-infectious-disease).
   - Built recurrent neural networks to forecast flu rates across US for multiple weeks into the future.
   - Used a hierarchical Bayesian model to analyze the impact of various socioeconomic and environmental factors on flu rates across different states.
