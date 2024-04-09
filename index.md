@@ -15,7 +15,7 @@ Dimitris Vamvourellis, Mate Attila Toth, Dhruv Desai, Dhagash Mehta, Stefano Pas
 
 ## Work Experience
 
-Currently, I am working as Quantitative Researcher at BlackRock's Liquidity Research Group, applying machine learning and NLP techniques on the field of liquidity and market microstructure. Previously, I worked as a data scientist for [intelligencia.ai](https://www.intelligencia.ai/), building Natural Language Processing models to uncover trends and emerging areas of innovation in clinical research. Prior to that, I worked in the fintech industry for BlackRock, where I developed subject matter expertise on the quantitative capabilities of the Aladdin platform like stress testing, portfolio optimization and portfolio risk modelling tools.
+Currently, I am working as Quantitative Researcher at BlackRock's Investment AI Group, developing machine learning and NLP solutions to aid investment processes. Previously, I worked as a data scientist for [intelligencia.ai](https://www.intelligencia.ai/), building Natural Language Processing models to uncover trends and emerging areas of innovation in clinical research. Prior to that, I worked in the fintech industry for BlackRock, where I developed subject matter expertise on the quantitative capabilities of the Aladdin platform like stress testing, portfolio optimization and portfolio risk modelling tools.
 
 
 ## Recent Projects
