@@ -12,6 +12,11 @@ Théo Guénais, Dimitris Vamvourellis, Yaniv Yacoby, Finale Doshi-Velez, Weiwei 
 
 Dimitris Vamvourellis, Mate Attila Toth, Dhruv Desai, Dhagash Mehta, Stefano Pasquali, *Learning Mutual Fund Categorization using Natural Language Processing*, 3rd ACM International Conference on AI in Finance, 2022.
 
+Dimitris Vamvourellis, Mate Attila Toth, Snigdha Bhagat, Dhruv Desai, Dhagash Mehta, Stefano Pasquali, *Company Similarity using Large Language Models*, CIFEr Conference 2024, 2024.
+
+Gagandeep Singh Kaler, Dimitris Vamvourellis, Deran Onay, Yury Krongauz, Dhagash Mehta, Stefano Pasquali, *A Natural Way of Building Financial Domain Expert Agents*, 5th ACM International Conference on AI in Finance, 2024.
+
+Joshua Rosaler, Dhruv Desai, Bhaskarjit Sarmah, Dimitris Vamvourellis, Deran Onay, Dhagash Mehta, Stefano Pasquali, *Enhanced Local Explainability and Trust Scores with Random Forest Proximities*, 5th ACM International Conference on AI in Finance, 2024.
 
 ## Work Experience
 
@@ -19,6 +24,7 @@ Currently, I am working as Quantitative Researcher at BlackRock's Investment AI 
 
 
 ## Recent Projects
+- Developing a multi-agent GenAI framework facilitating the interaction of portfolio managers and traders with analytics and models through a simple language interfaces. The framework includes AI-powered SQL and Python generators and is able to decompose complex multi-step queries into a series of tasks which require planning and reasoning over data and analytics.
 
 - Developed an LLM [(application)](https://rehearsal-ai.streamlit.app/) for creating hypothetical debates between two [(CAMEL)](https://www.camel-ai.org/) agents. The app can be used to rehearse a conversation you are interested in between two given roles (e.g. negotiate with your manager) and find potentially useful arguments and counterarguments on a given topic.
 
