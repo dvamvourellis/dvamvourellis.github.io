@@ -1,7 +1,8 @@
 ---
 layout: page          # ← keep the plain page layout
-title: "Projects"
+title: "projects"
 permalink: /projects/
+nav_order: 3
 nav: true
 ---
 

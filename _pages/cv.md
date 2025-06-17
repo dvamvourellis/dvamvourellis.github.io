@@ -1,11 +1,8 @@
 ---
----
-layout: page
-title: "Resume"
+layout: cv
 permalink: /cv/
+title: cv
 nav: true
+nav_order: 4
+cv_pdf: resume.pdf
 ---
-
-You can download my full résumé as a PDF:
-
-[**Download PDF**](/assets/pdf/cv_niw_may_2025.pdf)

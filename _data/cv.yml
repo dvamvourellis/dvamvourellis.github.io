@@ -1,97 +1,85 @@
+# _data/cv.yml  ── paste everything below this line ──
 - title: General Information
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Dimitris Vamvourellis
+    - name: Address
+      value: 141 Maujer St, New York, NY 11206
+    - name: Email
+      value: dimvamvourellis@gmail.com
+    - name: Website
+      value: dvamvourellis.github.io
+    - name: Phone
+      value: "+1 617-229-9771"
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: MS in Data Science (GPA 4.0)
+      institution: Harvard University · Cambridge, MA
+      year: 2019 – 2020
+    - title: BS in Computer Science & Mathematics – First Class Honours, Valedictorian
+      institution: The University of Edinburgh · Edinburgh, UK
+      year: 2013 – 2017
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Senior AI Researcher, Investment AI Group
+      institution: BlackRock · New York, NY
+      year: Mar 2021 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - ML & NLP research for alpha generation, price discovery and transaction-cost models.
+        - Deployed real-time corporate-bond pricing model (24 % error reduction).
+        - Built enterprise NLP pipelines for thematic sentiment and risk signals.
+        - Designed multi-agent GenAI framework that decomposes analytical queries into SQL + Python tasks.
+    - title: Data Scientist
+      institution: Intelligencia AI · Cambridge, MA
+      year: Mar 2020 – Mar 2021
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Developed NLP/ML models to surface innovation trends in clinical research.
+    - title: Analyst, Aladdin Business
+      institution: BlackRock · Edinburgh, UK
+      year: Jul 2017 – Jun 2019
       description:
+        - Advised portfolio managers on risk modelling, optimisation and analytics workflows.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Research Assistant
+      institution: Harvard Data-to-Actionable Knowledge Lab · Cambridge, MA
+      year: Jan 2020 – Feb 2021
+      description:
+        - Investigated scalable uncertainty-estimation methods for deep learning in safety-critical healthcare.
 
-- title: Honors and Awards
+- title: Teaching
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Teaching Fellow — *Advanced Scientific Computing: Stochastic Methods*
+      institution: Harvard University · Cambridge, MA
+      year: Aug 2020 – Dec 2020
+      description:
+        - Led office hours & reviewed weekly assignments for graduate students.
+    - title: Teaching Fellow — *ML & NLP in Finance*
+      institution: Columbia University · New York, NY
+      year: Jan 2024
+      description:
+        - Delivered lectures on practical ML/NLP applications for financial markets.
 
-- title: Academic Interests
-  type: nested_list
+- title: Prizes
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Class Medal — BS CS & Math
+      institution: University of Edinburgh
+      year: 2017
+      description: Awarded to top overall student across the four-year programme.
+    - title: Kevin Clarke Memorial Prize
+      institution: University of Edinburgh
+      year: 2017
+      description: Highest academic performance in final year of degree.
+    - title: Google Prize — Best System Design Project
+      institution: University of Edinburgh
+      year: 2016
+      description: Winning autonomous football robot in RoboCup competition.
