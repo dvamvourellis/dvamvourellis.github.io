@@ -1,7 +1,8 @@
-# _data/navigation.yml
 - title: "About"
   url: "/"
 - title: "Publications"
   url: "/publications/"
-- title: "Recent Projects"
+- title: "Projects"
   url: "/projects/"
+- title: "Resume"
+  url: "/cv/"

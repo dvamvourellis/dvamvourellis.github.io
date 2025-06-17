@@ -1,10 +1,8 @@
 ---
-layout: page          # plain page layout (no card grid)
-title: "Recent Projects"
+layout: page          # ← keep the plain page layout
+title: "Projects"
 permalink: /projects/
-description: Chronological list of recent projects.
 nav: true
-nav_order: 3
 ---
 
 ### 2025  
