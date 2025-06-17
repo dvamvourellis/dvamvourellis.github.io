@@ -16,9 +16,9 @@
       year: 2021–Present
       description:
         - ML & NLP research for alpha generation, price discovery and transaction-cost models.
-        - Deployed real-time corporate-bond pricing model (24 % error reduction).
-        - Built enterprise NLP pipelines for thematic sentiment and risk signals.
-        - Designed multi-agent GenAI framework that decomposes analytical queries into SQL + Python tasks.
+        - Deployed real-time corporate-bond pricing model using Gradient Boosting Machines (24 % error reduction).
+        - Built enterprise NLP pipelines for extraction of thematic and sentiment signals from unstructured sources (news, SEC filings etc.)
+        - Developed multi-agent GenAI framework aiding traders and portfolio managers to perform data analysis and research.
     - title: Data Scientist
       institution: Intelligencia AI
       year: 2020–2021
@@ -37,7 +37,7 @@
       institution: Harvard Data-to-Actionable Knowledge Lab
       year: 2020–2021
       description:
-        - Investigated scalable uncertainty-estimation methods for deep learning in safety-critical healthcare.
+        - Investigated scalable uncertainty-estimation methods for deep learning in safety-critical domains.
 
 - title: Teaching
   type: time_table
@@ -46,7 +46,7 @@
       institution: Harvard University 
       year: 2020
       description:
-        - Led office hours & reviewed weekly assignments for graduate students.
+        - Taught the graduate class on Advanced Scientific Computing - Stochastic Methods for Data Analysis,Inference and Optimization. 
     - title: Teaching Fellow
       institution: Columbia University
       year: 2024
@@ -67,4 +67,4 @@
     - title: Google Prize — Best System Design Project
       institution: University of Edinburgh
       year: 2016
-      description: Winning autonomous football robot in RoboCup competition.
+      description: Our team was selected among 30 other teams for developing an autonomous robot which achieved the greatest performance in the Robocup Competition.
