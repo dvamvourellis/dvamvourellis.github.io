@@ -1,65 +1,30 @@
 ---
-layout: page
-title: projects
+layout: page          # plain page layout (no card grid)
+title: "Recent Projects"
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Chronological list of recent projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+### 2025  
+*Developing a multi-agent GenAI framework for portfolio managers and traders*  
+A language-interface system that plans tasks, generates SQL & Python, and reasons over analytics to answer complex investment questions.
 
-{% else %}
+### 2024  
+**Hypothetical Debate Generator** – [Live app](https://rehearsal-ai.streamlit.app/) • [CAMEL](https://www.camel-ai.org/)  
+Creates role-playing debates between two CAMEL agents to rehearse negotiations and surface arguments & counter-arguments.
 
-<!-- Display projects without categories -->
+### 2021  
+**US Influenza Forecasting** – [GitHub repo](https://github.com/benlevyx/modelling-infectious-disease)  
+* Recurrent neural networks forecast flu rates across all US states several weeks ahead.  
+* Hierarchical Bayesian model quantifies socioeconomic & environmental effects on infection dynamics.
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+### 2020  
+**Twitter #tweetpoll – Democratic Primaries** – [Demo](https://benlevyx.github.io/twitter-polling/)  
+* Sentiment analysis on two million tweets with RNNs.  
+* Bayesian model infers candidate popularity from sentiment scores.
 
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+### 2019  
+**Mining Biomedical Text: Transfer Learning to the Rescue** – [Medium article](https://medium.com/institute-for-applied-computational-science/mining-biomedical-text-transfer-learning-to-the-rescue-d502029314c3)  
+Used BioBERT to extract gene–disease relations from PubMed and built a knowledge graph from unstructured literature.
