@@ -1,34 +1,19 @@
-# _data/cv.yml  ── paste everything below this line ──
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Dimitris Vamvourellis
-    - name: Address
-      value: 141 Maujer St, New York, NY 11206
-    - name: Email
-      value: dimvamvourellis@gmail.com
-    - name: Website
-      value: dvamvourellis.github.io
-    - name: Phone
-      value: "+1 617-229-9771"
-
 - title: Education
   type: time_table
   contents:
     - title: MS in Data Science (GPA 4.0)
       institution: Harvard University · Cambridge, MA
-      year: 2019 – 2020
+      year: 2021
     - title: BS in Computer Science & Mathematics – First Class Honours, Valedictorian
       institution: The University of Edinburgh · Edinburgh, UK
-      year: 2013 – 2017
+      year: 2017
 
 - title: Work Experience
   type: time_table
   contents:
     - title: Senior AI Researcher, Investment AI Group
       institution: BlackRock · New York, NY
-      year: Mar 2021 – Present
+      year: 2021–Present
       description:
         - ML & NLP research for alpha generation, price discovery and transaction-cost models.
         - Deployed real-time corporate-bond pricing model (24 % error reduction).
@@ -36,12 +21,12 @@
         - Designed multi-agent GenAI framework that decomposes analytical queries into SQL + Python tasks.
     - title: Data Scientist
       institution: Intelligencia AI · Cambridge, MA
-      year: Mar 2020 – Mar 2021
+      year: 2020–2021
       description:
         - Developed NLP/ML models to surface innovation trends in clinical research.
     - title: Analyst, Aladdin Business
       institution: BlackRock · Edinburgh, UK
-      year: Jul 2017 – Jun 2019
+      year: 2017–2019
       description:
         - Advised portfolio managers on risk modelling, optimisation and analytics workflows.
 
@@ -50,7 +35,7 @@
   contents:
     - title: Research Assistant
       institution: Harvard Data-to-Actionable Knowledge Lab · Cambridge, MA
-      year: Jan 2020 – Feb 2021
+      year: 2020–2021
       description:
         - Investigated scalable uncertainty-estimation methods for deep learning in safety-critical healthcare.
 
@@ -59,12 +44,12 @@
   contents:
     - title: Teaching Fellow — *Advanced Scientific Computing: Stochastic Methods*
       institution: Harvard University · Cambridge, MA
-      year: Aug 2020 – Dec 2020
+      year: 2020
       description:
         - Led office hours & reviewed weekly assignments for graduate students.
     - title: Teaching Fellow — *ML & NLP in Finance*
       institution: Columbia University · New York, NY
-      year: Jan 2024
+      year: 2024
       description:
         - Delivered lectures on practical ML/NLP applications for financial markets.
 
