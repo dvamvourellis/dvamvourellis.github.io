@@ -11,9 +11,14 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: AI Engineer, Equities
+      institution: Millennium Management, New York, NY
+      year: 2025–Present
+      description:
+        - Researching and developing AI-driven solutions that augment fundamental equity research and support data-informed investment strategies.
     - title: Senior AI Researcher, Investment AI Group
       institution: BlackRock, New York, NY
-      year: 2021–Present
+      year: 2021–2025
       description:
         - ML & NLP research for alpha generation, price discovery and transaction-cost models.
         - Deployed real-time corporate-bond pricing model using Gradient Boosting Machines (24 % error reduction).
