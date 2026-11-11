@@ -8,6 +8,6 @@ links:
   demo: https://benlevyx.github.io/twitter-polling/
 ---
 
-* Two million campaign-related tweets → sentiment classification with RNNs.  
-* Bayesian popularity model infers candidate support from aggregated
+- Two million campaign-related tweets → sentiment classification with RNNs.
+- Bayesian popularity model infers candidate support from aggregated
   sentiment counts.

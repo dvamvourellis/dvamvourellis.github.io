@@ -3,11 +3,11 @@
 # -----------------------------------------------------------------------------
 
 title: Dimitris Vamvourellis # the website title (if blank, full name will be used instead)
-first_name: Dimitris 
+first_name: Dimitris
 last_name: Vamvourellis
 email: dimvamvourellis@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Quantitative researcher in ML & NLP for finance.
+  AI Researcher
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -17,7 +17,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 # --- change these two ---
-url: https://dvamvourellis.github.io   # ← your root URL
+url: https://dvamvourellis.github.io # ← your root URL
 baseurl: ""
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -81,7 +81,7 @@ flickr_id: # your flickr id
 github_username: dvamvourellis # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id:  # Inspire HEP author ID
+inspirehep_id: # Inspire HEP author ID
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
@@ -168,12 +168,12 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 #external_sources:
-#  - name: 
-#    rss_url: 
-#  - name: 
+#  - name:
+#    rss_url:
+#  - name:
 #    posts:
-#      - url: 
-#        published_date: 
+#      - url:
+#        published_date:
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -625,7 +625,6 @@ third_party_libraries:
       js: "https://cdn.jsdelivr.net/npm/vega-lite@{{version}}/build/vega-lite.min.js"
       js_map: "https://cdn.jsdelivr.net/npm/vega-lite@{{version}}/build/vega-lite.min.js.map"
     version: "5.16.3"
-
 # -----------------------------------------------------------------------------
 # Get external JSON data
 # -----------------------------------------------------------------------------

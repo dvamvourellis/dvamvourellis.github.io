@@ -1,39 +1,46 @@
-- title: Education
-  type: time_table
-  contents:
-    - title: MS in Data Science (GPA 4.0)
-      institution: Harvard University
-      year: 2021
-    - title: BS in Computer Science & Mathematics – Class Valedictorian
-      institution: The University of Edinburgh
-      year: 2017
-
 - title: Work Experience
   type: time_table
   contents:
-    - title: AI Engineer, Equities
+    - title: AI Researcher, Equities
       institution: Millennium Management, New York, NY
       year: 2025–Present
       description:
-        - Researching and developing AI-driven solutions that augment fundamental equity research and support data-informed investment strategies.
+        - Research and develop NLP signals for systematic equity strategies
+        - Build AI systems that emulate fundamental research at scale.
     - title: Senior AI Researcher, Investment AI Group
       institution: BlackRock, New York, NY
       year: 2021–2025
       description:
-        - ML & NLP research for alpha generation, price discovery and transaction-cost models.
-        - Deployed real-time corporate-bond pricing model using Gradient Boosting Machines (24 % error reduction).
-        - Built enterprise NLP pipelines for extraction of thematic and sentiment signals from unstructured sources (news, SEC filings etc.)
-        - Developed multi-agent GenAI framework aiding traders and portfolio managers to perform data analysis and research.
+        - Developed sentiment signals using fine-tuned BERT models and deployed them in live systematic equity strategies and trade execution.
+        - Developed and deployed an ML model for real-time pricing of European and US corporate bonds; reduced out-of-sample mean absolute error by 24% versus the prior production model.
+        - Developed a multi-agent LLM framework combining financial reasoning and code generation to support investment research, portfolio management and trading.
     - title: Data Scientist
       institution: Intelligencia AI, Cambridge, MA
       year: 2020–2021
       description:
-        - Developed NLP/ML models to surface innovation trends in clinical research.
+        - Built NLP and ML models to identify emerging areas of innovation in clinical research.
     - title: Analyst, Aladdin Business
       institution: BlackRock, Edinburgh, UK
       year: 2017–2019
       description:
-        - Advised portfolio managers on risk modelling, optimisation and analytics workflows.
+        - Advised portfolio managers on Aladdin's risk modeling, security analytics and portfolio management workflows.
+
+- title: Education
+  type: time_table
+  contents:
+    - title: MS in Data Science (GPA 4.0)
+      institution: Harvard University, Cambridge, MA
+      year: 2019–2021
+    - title: BS in Computer Science and Mathematics
+      institution: The University of Edinburgh, Edinburgh, UK
+      year: 2013–2017
+      description:
+        - First Class Honors (Ranked 1st).
+
+- title: Skills
+  type: list
+  contents:
+    - "Programming: Python (pandas, PySpark, PyTorch, scikit-learn, PyMC3, Gensim, LangChain, CatBoost), SQL."
 
 - title: Research Experience
   type: time_table
@@ -48,10 +55,10 @@
   type: time_table
   contents:
     - title: Teaching Fellow
-      institution: Harvard University 
+      institution: Harvard University
       year: 2020
       description:
-        - Taught the graduate class on Advanced Scientific Computing - Stochastic Methods for Data Analysis,Inference and Optimization. 
+        - Taught the graduate class on Advanced Scientific Computing - Stochastic Methods for Data Analysis,Inference and Optimization.
     - title: Teaching Fellow
       institution: Columbia University
       year: 2024
