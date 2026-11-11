@@ -39,40 +39,6 @@
       description:
         - First Class Honors (Ranked 1st).
 
-- title: Publications
-  type: time_table
-  contents:
-    - title: "Reasoning or Overthinking: Evaluating Large Language Models on Financial Sentiment Analysis"
-      institution: 6th ACM International Conference on AI in Finance
-      year: Oct 2025
-      description:
-        - D. Vamvourellis, D. Mehta.
-        - Compared reasoning and non-reasoning LLMs on zero-shot financial sentiment analysis. Investigated how reasoning depth and prompting strategies affect accuracy and alignment with human judgments.
-    - title: Company Similarity using Large Language Models
-      institution: Symposium on Computational Intelligence for Financial Engineering and Economics (CIFEr)
-      year: Oct 2024
-      description:
-        - D. Vamvourellis et al.
-        - Evaluated small and large language models for generating financially meaningful company embeddings from business descriptions in SEC filings.
-    - title: Enhanced Local Explainability and Trust Scores with Random Forest Proximities
-      institution: 5th ACM International Conference on AI in Finance
-      year: Oct 2024
-      description:
-        - J. Rosaler, D. Desai, B. Sarmah, D. Vamvourellis et al.
-        - Developed a novel approach to explain predictions and quantify confidence of random forest models.
-    - title: Learning Mutual Fund Categorization using Natural Language Processing
-      institution: 3rd ACM International Conference on AI in Finance
-      year: Oct 2022
-      description:
-        - D. Vamvourellis et al.
-        - Developed BERT-based mutual fund embeddings from textual descriptions and explored their business applications in fund similarity learning.
-    - title: "BaCOUn: Bayesian Classifiers with Out-of-Distribution Uncertainty"
-      institution: ICML Workshop on Uncertainty and Robustness in Deep Learning
-      year: Jul 2020
-      description:
-        - T. Guénais*, D. Vamvourellis* et al. (*equal contribution).
-        - Developed a novel Bayesian framework for estimating and decomposing the predictive, in-distribution and out-of-distribution uncertainty of Bayesian neural networks for classification tasks.
-
 - title: Skills
   type: list
   contents:
