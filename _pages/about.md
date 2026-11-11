@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an AI Researcher at Millennium Management. My work focuses on researching NLP signals for systematic equity strategies and building AI systems that emulate fundamental research at scale.
+I am an AI Researcher at Millennium Management. My work focuses on researching NLP systematic signals and building AI systems that emulate fundamental research at scale.
 
 Previously, I was a Senior AI Researcher in BlackRock's Investment AI Group, where I developed sentiment signals for live systematic equity strategies and trade execution, machine learning models for real-time corporate bond pricing, and multi-agent LLM systems for investment research, portfolio management, and trading. Before that, I worked as a Data Scientist at [Intelligencia AI](https://www.intelligencia.ai/), building NLP and machine learning models to identify emerging areas of innovation in clinical research. I began my career as an Analyst in BlackRock's Aladdin Business.
 
