@@ -55,10 +55,10 @@
   type: time_table
   contents:
     - title: Teaching Fellow
-      institution: Harvard University 
+      institution: Harvard University
       year: 2020
       description:
-        - Taught the graduate class on Advanced Scientific Computing - Stochastic Methods for Data Analysis,Inference and Optimization. 
+        - Taught the graduate class on Advanced Scientific Computing - Stochastic Methods for Data Analysis,Inference and Optimization.
     - title: Teaching Fellow
       institution: Columbia University
       year: 2024

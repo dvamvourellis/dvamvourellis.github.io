@@ -3,7 +3,7 @@ layout: project
 title: "Multi-Agent GenAI Framework for Portfolio Analytics"
 year: 2025
 importance: 1
-category: work  # put real repo when public
+category: work # put real repo when public
 ---
 
 A modular system that lets portfolio managers and traders ask complex
