@@ -5,10 +5,8 @@
       institution: Millennium Management, New York, NY
       year: 2025–Present
       description:
-        - Research and develop NLP signals for systematic equity strategies from diverse unstructured data, including proprietary internal sources, company disclosures and sell-side research, assessing performance through backtesting and live evaluation.
-        - Build AI systems that emulate fundamental and event-driven equity research at scale, translating investment theses into systematic trading signals.
-        - Develop a self-evolving quantitative research agent that autonomously proposes and backtests investment hypotheses in a closed feedback loop, capturing each iteration's evaluation feedback in persistent memory that guides subsequent signal exploration.
-        - Build AI systems for thematic long/short basket construction and company-specific risk discovery.
+        - Research and develop NLP signals for systematic equity strategies
+        - Build AI systems that emulate fundamental research at scale.
     - title: Senior AI Researcher, Investment AI Group
       institution: BlackRock, New York, NY
       year: 2021–2025
